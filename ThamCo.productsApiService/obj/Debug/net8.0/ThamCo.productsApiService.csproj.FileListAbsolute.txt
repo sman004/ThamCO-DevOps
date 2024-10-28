@@ -31,3 +31,4 @@ C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ThamCo.productsApiService.pdb
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ThamCo.productsApiService.genruntimeconfig.cache
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ref\ThamCo.productsApiService.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ThamCo.productsApiService.sourcelink.json

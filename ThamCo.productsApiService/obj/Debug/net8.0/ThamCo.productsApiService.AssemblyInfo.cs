@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThamCo.productsApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9596aa1039d101bddb436b98dbb79db48adcdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThamCo.productsApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThamCo.productsApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
