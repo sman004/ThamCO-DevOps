@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BhOAwBFGIDwEhSawNJfIvd6mqgoHbGvXSVFwBWJ/PnQ=",
+  "Source": "ThamCo.productsApiService",
+  "BasePath": "_content/ThamCo.productsApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
