@@ -32,3 +32,13 @@ C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ThamCo.productsApiService.genruntimeconfig.cache
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ref\ThamCo.productsApiService.dll
 C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\obj\Debug\net8.0\ThamCo.productsApiService.sourcelink.json
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\ibrahim\OneDrive - Teesside University\Year1 Semester1\Documents\ThamCO-DevOps\ThamCo.productsApiService\bin\Debug\net8.0\SQLitePCLRaw.core.dll

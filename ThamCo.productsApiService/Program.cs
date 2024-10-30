@@ -1,6 +1,26 @@
 using ThamCo.productsApiService.Services.Products;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+// Add services to the container.
+
+builder.Services.AddDbContext<ProductContext>(options =>
+{
+    if (builder.Environment.IsDevelopment())
+    {
+        var folder = Environment.SpecialFolder.LocalApplicationData;
+        var path = Environment.GetFolderPath(folder);
+        var dbPath = System.IO.Path.Join(path, "Products.db");
+        options.UseSqlite($"Data Source={dbPath}");
+        options.EnableDetailedErrors();
+        options.EnableSensitiveDataLogging();
+    }
+    else
+    {
+        var cs = builder.Configuration.GetConnectionString("ProductContext");
+        options.UseSqlServer(cs);
+    }
+});
 
 // Add services to the container.
 if (builder.Environment.IsDevelopment())
