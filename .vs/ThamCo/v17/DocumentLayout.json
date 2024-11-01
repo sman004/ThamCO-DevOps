@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|c:\\users\\ibrahim\\onedrive - teesside university\\year1 semester1\\documents\\thamco-devops\\thamco.productsapiservice\\services\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|solutionrelative:thamco.productsapiservice\\services\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|c:\\users\\ibrahim\\onedrive - teesside university\\year1 semester1\\documents\\thamco-devops\\thamco.productsapiservice\\services\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|solutionrelative:thamco.productsapiservice\\services\\products\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|c:\\users\\ibrahim\\onedrive - teesside university\\year1 semester1\\documents\\thamco-devops\\thamco.productsapiservice\\services\\products\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80C901E9-E546-4D02-BCEF-5C552872434C}|ThamCo.productsApiService\\ThamCo.productsApiService.csproj|solutionrelative:thamco.productsapiservice\\services\\products\\productscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +47,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241101115740_InitialCreateWithSeed.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs",
+              "RelativeDocumentMoniker": "ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs",
+              "RelativeToolTip": "ThamCo.productsApiService\\Migrations\\20241101115740_InitialCreateWithSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:57:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ThamCo.productsApiService\\Services\\Products\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\ProductDto.cs",
+              "RelativeToolTip": "ThamCo.productsApiService\\Services\\Products\\ProductDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:54:59.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "ThamCo.productsApiService\\Services\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\Product.cs",
+              "RelativeToolTip": "ThamCo.productsApiService\\Services\\Products\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:54:55.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\ProductsContext.cs",
+              "RelativeDocumentMoniker": "ThamCo.productsApiService\\Services\\Products\\ProductsContext.cs",
+              "ToolTip": "C:\\Users\\ibrahim\\OneDrive - Teesside University\\Year1 Semester1\\Documents\\ThamCO-DevOps\\ThamCo.productsApiService\\Services\\Products\\ProductsContext.cs",
+              "RelativeToolTip": "ThamCo.productsApiService\\Services\\Products\\ProductsContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:52:34.487Z",
+              "EditorCaption": ""
             }
           ]
         }

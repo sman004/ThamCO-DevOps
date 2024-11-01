@@ -1,13 +1,16 @@
 
 
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace ThamCo.productsApiService.Services.Products
 {
     public class ProductDto
     {
-     public int ProductId { get; set; }
+    [Key]
+    public int ProductId { get; set; }
     public string ProductName { get; set; } = string.Empty;
 
-    public decimal Price { get; set; }
+    public double Price { get; set; }
     public string Description { get; set; } = string.Empty;
 
         

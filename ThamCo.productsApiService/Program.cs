@@ -10,7 +10,7 @@ builder.Services.AddDbContext<ProductContext>(options =>
     {
         var folder = Environment.SpecialFolder.LocalApplicationData;
         var path = Environment.GetFolderPath(folder);
-        var dbPath = System.IO.Path.Join(path, "Products.db");
+        var dbPath = System.IO.Path.Join(path, "ProductsTable.db");
         options.UseSqlite($"Data Source={dbPath}");
         options.EnableDetailedErrors();
         options.EnableSensitiveDataLogging();
